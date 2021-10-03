@@ -1,7 +1,8 @@
 # Whatsapp-Bot
 
 Install Requiriment
-```npm install whatsapp-web.js
+```
+npm install whatsapp-web.js
 npm install qrcode-terminal
 npm install fs
 ```
